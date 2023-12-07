@@ -1,0 +1,39 @@
+body {
+    background-color: #f9e1f5;
+}
+
+fieldset {
+    text-align: center;
+    margin: auto;
+    border-radius: 10%;
+    background-color: rgb(243, 195, 195);
+    border: double rgb(120, 89, 147);
+    /*border-style: double  15%;
+    border-color: rgb(174, 124, 218);
+    border-radius: 15%;*/
+    background-position: center;
+    height: 665px;
+    width: 650px;
+}
+
+legend {
+    text-align: center;
+    border-style: double;
+    color: rgb(174, 124, 218);
+    background-color: rgb(173, 245, 242);
+    border-radius: 500%;
+}
+.Name{
+    width: 3cm;
+}
+#Selection:hover{
+    background-color: rgb(104, 231, 240);
+}
+#Selection {
+
+    cursor: pointer;
+
+    border: double rgb(174, 124, 218);
+    border-radius: 12%;
+    background-color: rgb(173, 245, 242);
+}
